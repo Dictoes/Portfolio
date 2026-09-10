@@ -13,7 +13,7 @@ export default function ContactScreen() {
         </div>
         <div className="terminal-line">
           <span className="terminal-line__label">GITHUB</span>
-          <span className="terminal-line__value">[ github.com/username ]</span>
+          <span className="terminal-line__value">[ https://github.com/Dictoes ]</span>
         </div>
         <div className="terminal-line">
           <span className="terminal-line__label">LINKEDIN</span>

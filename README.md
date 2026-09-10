@@ -1,4 +1,4 @@
-# [YOUR NAME] — Developer Portfolio (Pixel RPG Edition, React)
+# John Benedict B. Nacua — Developer Portfolio (Pixel RPG Edition, React)
 
 This is a React + Vite refactor of the original plain HTML/CSS/JS pixel-art RPG
 developer portfolio. Same look, same behavior, same data files — now built as

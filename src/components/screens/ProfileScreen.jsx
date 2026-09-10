@@ -51,6 +51,28 @@ export default function ProfileScreen() {
               <p className="introduction-dialogue__eyebrow">CHARACTER STATUS</p>
               <h3>John Benedict B. Nacua</h3>
             </div>
+            <div className="profile-status__resources" aria-label="Character resources">
+              <div className="profile-resource profile-resource--hp">
+                <div className="profile-resource__label">
+                  <span className="profile-resource__icon" aria-hidden="true">♥</span>
+                  <span>Health</span>
+                  <strong>100 / 100</strong>
+                </div>
+                <div className="profile-resource__bar" role="progressbar" aria-label="Health points" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                  <span className="profile-resource__fill"></span>
+                </div>
+              </div>
+              <div className="profile-resource profile-resource--mp">
+                <div className="profile-resource__label">
+                  <span className="profile-resource__icon" aria-hidden="true">⚡</span>
+                  <span>Stamina</span>
+                  <strong>75 / 100</strong>
+                </div>
+                <div className="profile-resource__bar" role="progressbar" aria-label="Stamina points" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+                  <span className="profile-resource__fill"></span>
+                </div>
+              </div>
+            </div>
             <dl className="profile-status__grid">
               <div>
                 <dt>CLASS</dt>
