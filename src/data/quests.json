@@ -1,0 +1,14 @@
+[
+  { "text": "Learn HTML & CSS", "status": "completed" },
+  { "text": "Build First Website", "status": "completed" },
+  { "text": "Learn JavaScript", "status": "completed" },
+  { "text": "Build Android Application", "status": "completed" },
+  { "text": "Build Database System", "status": "completed" },
+  { "text": "Complete 280 Hours of Work Immersion", "status": "completed" },
+  { "text": "Build a PC From Scratch", "status": "completed" },
+  { "text": "Learn Ethernet Cable Crimping & Termination", "status": "completed" },
+  { "text": "Pass Java Certification (91%)", "status": "completed" },
+  { "text": "Become Full-Stack Developer", "status": "active" },
+  { "text": "Build More Games", "status": "active" },
+  { "text": "Contribute to Open Source", "status": "locked" }
+]

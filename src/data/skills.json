@@ -1,0 +1,78 @@
+[
+  {
+    "name": "HTML",
+    "category": "Web Structure",
+    "level": 95,
+    "description": "Semantic markup and accessible document structure for the web."
+  },
+  {
+    "name": "CSS",
+    "category": "Interface Design",
+    "level": 88,
+    "description": "Layout systems, responsive design, and animation without frameworks."
+  },
+  {
+    "name": "JAVASCRIPT",
+    "category": "Interactive Systems",
+    "level": 90,
+    "description": "DOM manipulation, event-driven UI, and vanilla app architecture."
+  },
+  {
+    "name": "PHP / MYSQL",
+    "category": "Database Systems",
+    "level": 75,
+    "description": "Server-side logic and relational database design for web apps."
+  },
+  {
+    "name": "JAVA / KOTLIN",
+    "category": "Application Development",
+    "level": 70,
+    "description": "Native Android application development and object-oriented design."
+  },
+  {
+    "name": "LIBGDX",
+    "category": "2D Game Development",
+    "level": 68,
+    "description": "Cross-platform 2D game framework for Java-based game projects."
+  },
+  {
+    "name": "PC HARDWARE",
+    "category": "Building & Assembly",
+    "level": 78,
+    "description": "Can build a full desktop PC from individual components, gained through 280 hours of work immersion."
+  },
+  {
+    "name": "NETWORK CABLING",
+    "category": "Ethernet / RJ45",
+    "level": 72,
+    "description": "Crimping, terminating, and testing Ethernet cables."
+  },
+  {
+    "name": "C",
+    "category": "Procedural Programming",
+    "level": 65,
+    "description": "Low-level, procedural programming fundamentals.",
+    "icon": "code"
+  },
+  {
+    "name": "FIGMA",
+    "category": "UI/UX Design",
+    "level": 70,
+    "description": "Interface and visual layout design focused on clean, organized, and user-friendly experiences.",
+    "icon": "design"
+  },
+  {
+    "name": "CANVA",
+    "category": "Graphic Design",
+    "level": 70,
+    "description": "Creating and editing visual content with layouts, typography, graphics, and visual elements.",
+    "icon": "creative"
+  },
+  {
+    "name": "FILMORA",
+    "category": "Video Editing",
+    "level": 70,
+    "description": "Video editing with clips, transitions, text, effects, audio, and overall presentation.",
+    "icon": "video"
+  }
+]

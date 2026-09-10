@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Stratagem",
+    "description": "Your tactical mission begins here. Strategize across the battlefield, plan each turn carefully, and outmaneuver your opponents. I joined the development team and worked directly on the game's code.",
+    "technologies": ["Java", "LibGDX"],
+    "image": "assets/projects/stratagem.jpg",
+    "github": "#",
+    "demo": "#",
+    "status": "COMPLETED"
+  },
+  {
+    "name": "VaultByte",
+    "description": "A secure storage mission awaits. VaultByte was built as an Android application focused on keeping data stored safely on the device.",
+    "technologies": ["Kotlin", "Android", "XML"],
+    "image": "assets/projects/vaultbyte.png",
+    "github": "#",
+    "demo": "#",
+    "status": "COMPLETED"
+  },
+  {
+    "name": "JNOTALY",
+    "description": "Every adventurer needs a way to prepare. JNOTALY is my first solo project, transforming engineering review notes into structured reviewers and quizzes so students can study and test their knowledge.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "image": "assets/projects/jnotaly.jpg",
+    "github": "#",
+    "demo": "#",
+    "status": "COMPLETED"
+  },
+  {
+    "name": "Patutim",
+    "description": "Survival is the objective. Manage your resources, plan each move, and navigate the grid carefully if you want to make it through.",
+    "technologies": ["Java", "LibGDX"],
+    "github": "#",
+    "demo": "#",
+    "status": "COMPLETED"
+  },
+  {
+    "name": "Room Management System",
+    "description": "Your assignment: keep the rooms in order. Manage bookings, check availability, and prevent scheduling conflicts before they become a problem.",
+    "technologies": ["PHP", "MySQL", "JavaScript"],
+    "github": "#",
+    "demo": "#",
+    "status": "COMPLETED"
+  },
+  { "name": "Book Management System", 
+    "description": "The library needs an organized keeper. Track books, manage inventory, and keep availability under control through this web-based system.", 
+    "technologies": ["PHP", "MySQL", "JavaScript"], 
+    "github": "#", 
+    "demo": "#", 
+    "status": "COMPLETED" 
+  },
+  {
+    "name": "GUI Calculator",
+    "description": "A simple calculation quest. Enter your numbers, perform the required operations, and let the interface handle the rest.",
+    "technologies": ["Java", "Swing"],
+    "github": "#",
+    "demo": "#",
+    "status": "COMPLETED"
+  },
+  {
+    "name": "GUI Vending Machine",
+    "description": "An old guild project from my Grade 11 days. This vending machine simulation uses a graphical interface to recreate the process of selecting and purchasing an item.",
+    "technologies": ["Java", "Swing"],
+    "github": "#",
+    "demo": "#",
+    "status": "COMPLETED"
+  },
+  {
+    "name": "Networking Projects",
+    "description": "Enter the network lab. Configure Cisco devices, build your topologies, and put your networking knowledge to the test.",
+    "technologies": ["Cisco IOS", "Packet Tracer"],
+    "github": "#",
+    "demo": "#",
+    "status": "COMPLETED"
+  }
+]
