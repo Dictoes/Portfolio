@@ -32,7 +32,7 @@ export default function ContactScreen() {
           <a
             className="pixel-btn"
             id="btn-open-github"
-            href="https://github.com/username"
+            href="https://github.com/Dictoes"
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => playSound("click")}
